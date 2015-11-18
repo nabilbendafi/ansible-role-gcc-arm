@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Nabil Bendafi
+  description: 
+  description: Ansible role to install GNU C Compiler for ARM
+  company:
+  license: MIT
+  min_ansible_version: 1.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - precise
+    - trusty
+  categories:
+  - development
+dependencies: []
